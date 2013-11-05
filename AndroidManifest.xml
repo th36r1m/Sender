@@ -81,7 +81,7 @@
         <!-- Google API Key -->
         <meta-data
     		android:name="com.google.android.maps.v2.API_KEY"
-    		android:value="AIzaSyCywDYQ22TGnu95wCwsi17tcZsys0cIwj0" />
+    		android:value="<YOUR-API-KEY-HERE>" />
         
         <!-- Main Add Tag -->
         <activity 
